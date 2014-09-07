@@ -1,7 +1,7 @@
 package com.helloworldhome.language.java;
 
 /**
- * 第一个java程序：hello, world
+ * 绗竴涓猨ava绋嬪簭锛歨ello, world
  * 
  * @author yanchangyou@gmail.com
  *
