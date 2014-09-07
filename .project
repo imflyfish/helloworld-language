@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>helloworld-language</name>
-	<comment></comment>
-	<projects>
-	</projects>
-	<buildSpec>
-	</buildSpec>
-	<natures>
-	</natures>
+	<comment>所有的语言实现代码</comment>
 </projectDescription>
